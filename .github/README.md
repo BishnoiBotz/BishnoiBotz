@@ -9,7 +9,7 @@
 [<img src="https://github.com/BishnoiBotz/BishnoiBotz/blob/master/resources/hr.gif"/>](https://github.com/BishnoiBotz)
 
 <p align="center">
-<img src="https://te.legra.ph/file/9f9f9e906aa1dfdef2e29.jpg">
+<img src="https://graph.org/file/b546ff203b1e9f4537883.jpg">
 </p>
 
 ## 👩‍💻 About Me 💫 :
