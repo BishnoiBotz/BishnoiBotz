@@ -25,7 +25,7 @@
 <h1 align="center"> 🌐 Socials: </h1>
 <div align="center"> 
 
-[<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/telegram_icon.png" width="60px">](https://telegram.me/abhii_Toxic) [<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/github_icon.png" width="60px">](https://github.com/BishnoiBotz)
+[<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/telegram_icon.png" width="60px">](https://telegram.me/abhii_Toxic) [<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/github_icon.png" width="60px">](https://github.com/BishnoiBotz) [<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/telegram_icon.png" width="60px">](https://telegram.me/Bishnoi_Botz)
 
 [<img src="https://github.com/BishnoiBotz/BishnoiBotz/blob/master/resources/hr.gif"/>](https://github.com/BishnoiBotz)
 [<img src="https://github.com/BishnoiBotz/BishnoiBotz/blob/master/resources/hr.gif"/>](https://github.com/BishnoiBotz)
