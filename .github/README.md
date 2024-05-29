@@ -25,7 +25,7 @@
 <h1 align="center"> 🌐 Socials: </h1>
 <div align="center"> 
 
-[<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/telegram_icon.png" width="60px">](https://telegram.me/abhii_Toxic) [<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/github_icon.png" width="60px">](https://github.com/BishnoiBotz) [<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/youtube_icon.png" width="60px">](https://www.youtube.com/c/Teamxpros) [<img src="https://github.com/AnonymousX1025/AnonymousX1025/blob/master/resources/insta_icon.png" width="60px">](https://instagram.com/dev_sudipx)
+[<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/telegram_icon.png" width="60px">](https://telegram.me/abhii_Toxic) [<img src="https://raw.githubusercontent.com/BishnoiBotz/BishnoiBotz/master/resources/github_icon.png" width="60px">](https://github.com/BishnoiBotz)
 
 [<img src="https://github.com/BishnoiBotz/BishnoiBotz/blob/master/resources/hr.gif"/>](https://github.com/BishnoiBotz)
 [<img src="https://github.com/BishnoiBotz/BishnoiBotz/blob/master/resources/hr.gif"/>](https://github.com/BishnoiBotz)
